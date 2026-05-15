@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Five Elements on Feng Shui Guide - Your Complete Resource for Chinese Wisdom</title>
+    <link>http://localhost:1313/tags/five-elements/</link>
+    <description>Recent content in Five Elements on Feng Shui Guide - Your Complete Resource for Chinese Wisdom</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/five-elements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chinese Zodiac Elements: How Wood, Fire, Earth, Metal, and Water Shape Your Destiny</title>
+      <link>http://localhost:1313/chinese-zodiac/zodiac-elements/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese-zodiac/zodiac-elements/</guid>
+      <description>Learn about the five Chinese Zodiac elements and how they influence your personality, relationships, and life path. Discover your element based on birth year.</description>
+    </item>
+    <item>
+      <title>The Five Elements Theory: A Complete Guide to Wood, Fire, Earth, Metal, and Water</title>
+      <link>http://localhost:1313/feng-shui-basics/five-elements-theory/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/feng-shui-basics/five-elements-theory/</guid>
+      <description>Learn about the Five Elements (Wu Xing) in Feng Shui: Wood, Fire, Earth, Metal, and Water. Discover their meanings, relationships, and how to balance them in your home.</description>
+    </item>
+  </channel>
+</rss>

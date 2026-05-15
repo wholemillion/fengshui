@@ -1,0 +1,115 @@
+baseURL = 'https://fengshuiguide.com/'
+languageCode = 'en-us'
+title = 'Feng Shui Guide - Your Complete Resource for Chinese Wisdom'
+theme = 'PaperMod'
+
+# Site parameters
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  comments = true
+  
+  # Home page settings
+  [params.homeInfoParams]
+    Title = "Welcome to Feng Shui Guide \U0001F3E0"
+    Content = "Discover the ancient Chinese art of placement and harmony. Learn how to bring balance, prosperity, and positive energy into your home and life through Feng Shui principles, Chinese Zodiac insights, and traditional wisdom."
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://facebook.com/"
+  [[params.socialIcons]]
+    name = "pinterest"
+    url = "https://pinterest.com/"
+
+  # SEO
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    patternMatch = "fuzzy"
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# Main menu
+[menu]
+  [[menu.main]]
+    identifier = "feng-shui-basics"
+    name = "Feng Shui Basics"
+    url = "/feng-shui-basics/"
+    weight = 10
+  [[menu.main]]
+    identifier = "home-feng-shui"
+    name = "Home Feng Shui"
+    url = "/home-feng-shui/"
+    weight = 20
+  [[menu.main]]
+    identifier = "chinese-zodiac"
+    name = "Chinese Zodiac"
+    url = "/chinese-zodiac/"
+    weight = 30
+  [[menu.main]]
+    identifier = "bazi"
+    name = "Bazi"
+    url = "/bazi/"
+    weight = 40
+  [[menu.main]]
+    identifier = "tools"
+    name = "Tools"
+    url = "/tools/"
+    weight = 50
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 60
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Outputs
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+# Sitemap
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Privacy settings for GDPR compliance
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+
+# Site description for SEO
+[params.description]
+  main = "Your complete guide to Feng Shui, Chinese Zodiac, and traditional Chinese wisdom. Learn how to create harmony and balance in your home and life."
