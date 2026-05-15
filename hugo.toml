@@ -111,5 +111,4 @@ theme = 'PaperMod'
     useSessionStorage = true
 
 # Site description for SEO
-[params.description]
-  main = "Your complete guide to Feng Shui, Chinese Zodiac, and traditional Chinese wisdom. Learn how to create harmony and balance in your home and life."
+description = "Your complete guide to Feng Shui, Chinese Zodiac, and traditional Chinese wisdom. Learn how to create harmony and balance in your home and life."
