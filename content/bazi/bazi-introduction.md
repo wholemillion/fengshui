@@ -1,7 +1,7 @@
 ---
 title: "Bazi: Introduction to the Four Pillars of Destiny"
 description: "Learn the fundamentals of Bazi (Four Pillars of Destiny), the ancient Chinese system of destiny analysis. Understand how your birth date reveals insights about your life path."
-date: 2025-05-15
+date: 2025-04-15
 draft: false
 categories: ["Bazi"]
 tags: ["bazi", "four pillars", "chinese astrology", "destiny analysis"]
@@ -233,7 +233,7 @@ To calculate your Bazi chart, you need:
 ### Getting Your Chart
 
 You can:
-1. Use our [Bazi Calculator](/tools/bazi-calculator/)
+1. Use our [Zodiac Calculator](/tools/zodiac-calculator/)
 2. Consult a Bazi practitioner
 3. Use traditional Chinese almanacs
 
@@ -282,11 +282,11 @@ Bazi is a powerful tool for self-discovery and life planning. By understanding y
 
 While Bazi may seem complex at first, starting with understanding your Day Master and element balance can provide immediate valuable insights. As you learn more, you'll discover the depth and richness this ancient system offers.
 
-Ready to discover your destiny? Use our [Bazi Calculator](/tools/bazi-calculator/) to generate your personal chart.
+Ready to discover your destiny? Use our [Zodiac Calculator](/tools/zodiac-calculator/) to generate your personal chart.
 
 ---
 
 **Related Articles:**
-- [How to Calculate Your Bazi](/bazi/how-to-calculate-bazi/)
-- [Understanding Your Day Master](/bazi/day-master-guide/)
+- [The Five Elements Theory](/feng-shui-basics/five-elements-theory/)
+- [The 12 Chinese Zodiac Signs](/chinese-zodiac/chinese-zodiac-signs/)
 - [The 12 Chinese Zodiac Signs](/chinese-zodiac/chinese-zodiac-signs/)

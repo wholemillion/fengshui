@@ -1,7 +1,7 @@
 ---
 title: "Chinese Zodiac Calculator"
 description: "Free Chinese Zodiac calculator. Find your Chinese zodiac sign, element, and compatibility instantly by entering your birth date."
-date: 2025-05-15
+date: 2025-05-01
 draft: false
 categories: ["Tools"]
 tags: ["zodiac calculator", "chinese zodiac tool", "find my zodiac", "zodiac sign finder"]

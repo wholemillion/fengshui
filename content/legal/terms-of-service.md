@@ -1,7 +1,7 @@
 ---
 title: "Terms of Service"
 description: "Terms of Service for Feng Shui Guide website. Read our terms and conditions for using this website."
-date: 2025-05-15
+date: 2025-01-01
 draft: false
 type: "legal"
 ---
@@ -118,7 +118,7 @@ If any provision of these Terms of Service is found to be unenforceable or inval
 
 If you have any questions about these Terms of Service, please contact us:
 
-- **Email**: legal@fengshuiguide.com
+- **Email**: legal@fengshuicn.netlify.app
 - **Website**: [Contact Form](/about/)
 
 ## 16. Entire Agreement

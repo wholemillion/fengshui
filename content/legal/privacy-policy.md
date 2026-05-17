@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 description: "Privacy Policy for Feng Shui Guide website. Learn how we collect, use, and protect your personal information."
-date: 2025-05-15
+date: 2025-01-01
 draft: false
 type: "legal"
 ---
@@ -10,7 +10,7 @@ type: "legal"
 
 **Last Updated: May 15, 2025**
 
-Welcome to Feng Shui Guide ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website fengshuiguide.com.
+Welcome to Feng Shui Guide ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website fengshuicn.netlify.app.
 
 ## Information We Collect
 
@@ -118,7 +118,7 @@ Depending on your location, you may have the following rights:
 - **Opt-out**: Opt out of marketing communications
 - **Data Portability**: Request transfer of your data
 
-To exercise these rights, please contact us at privacy@fengshuiguide.com.
+To exercise these rights, please contact us at privacy@fengshuicn.netlify.app.
 
 ## Children's Privacy
 
@@ -141,7 +141,7 @@ We encourage you to review this Privacy Policy periodically.
 
 If you have questions about this Privacy Policy, please contact us:
 
-- **Email**: privacy@fengshuiguide.com
+- **Email**: privacy@fengshuicn.netlify.app
 - **Address**: [Your Business Address]
 
 ## Cookie Consent

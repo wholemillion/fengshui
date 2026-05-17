@@ -1,7 +1,7 @@
 ---
 title: "The 12 Chinese Zodiac Signs: Complete Guide to Your Animal Sign"
 description: "Discover all 12 Chinese Zodiac animals, their personality traits, lucky numbers, colors, and compatibility. Find your zodiac sign and learn what it reveals about you."
-date: 2025-05-15
+date: 2025-01-05
 draft: false
 categories: ["Chinese Zodiac"]
 tags: ["chinese zodiac", "zodiac animals", "zodiac signs", "chinese astrology"]

@@ -1,7 +1,7 @@
 ---
 title: "Chinese Zodiac Compatibility: Find Your Perfect Match"
 description: "Discover Chinese Zodiac compatibility for love, friendship, and business. Learn which zodiac signs are your best matches and which relationships may need more work."
-date: 2025-05-15
+date: 2025-02-10
 draft: false
 categories: ["Chinese Zodiac"]
 tags: ["zodiac compatibility", "chinese zodiac love", "zodiac match", "relationship compatibility"]

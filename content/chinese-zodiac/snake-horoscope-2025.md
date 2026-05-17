@@ -1,7 +1,7 @@
 ---
 title: "Snake Horoscope 2025: Your Complete Year Ahead Guide"
 description: "Discover what 2025, the Year of the Snake, has in store for you. Read detailed predictions for all 12 zodiac signs covering career, love, health, and wealth."
-date: 2025-05-15
+date: 2025-03-05
 draft: false
 categories: ["Chinese Zodiac"]
 tags: ["snake horoscope", "2025 horoscope", "year of the snake", "chinese horoscope 2025"]

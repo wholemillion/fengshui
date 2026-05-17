@@ -39,7 +39,7 @@ We strive to present Feng Shui in a way that:
 
 Have questions or suggestions? We'd love to hear from you!
 
-- **Email**: contact@fengshuiguide.com
+- **Email**: contact@fengshuicn.netlify.app
 - **Follow Us**: Find us on social media for daily tips and updates
 
 Thank you for visiting Feng Shui Guide. May your journey bring you harmony and prosperity! 🙏

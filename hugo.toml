@@ -2,6 +2,11 @@ baseURL = 'https://fengshuicn.netlify.app/'
 languageCode = 'en-us'
 title = 'Feng Shui Guide - Your Complete Resource for Chinese Wisdom'
 theme = 'PaperMod'
+copyright = '2025 Feng Shui Guide. All rights reserved.'
+googleAnalytics = 'G-XXXXXXXXXX'
+
+[author]
+  name = 'Feng Shui Guide'
 
 # Site parameters
 [params]
@@ -14,22 +19,29 @@ theme = 'PaperMod'
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
   comments = true
-  
+  description = "Your complete guide to Feng Shui, Chinese Zodiac, and traditional Chinese wisdom. Learn how to create harmony and balance in your home and life."
+  images = ["images/og-default.png"]
+
+  # Favicon
+  [params.assets]
+    favicon = "favicon.svg"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "safari-pinned-tab.svg"
+
+  # Google Analytics verification
+  [params.analytics.google]
+    SiteVerificationTag = "n8FTXK_F3Uofg2AexxcCsGE39ausX_29HzxhUov51Gc"
+
   # Home page settings
   [params.homeInfoParams]
-    Title = "Welcome to Feng Shui Guide \U0001F3E0"
+    Title = "Welcome to Feng Shui Guide 🏠"
     Content = "Discover the ancient Chinese art of placement and harmony. Learn how to bring balance, prosperity, and positive energy into your home and life through Feng Shui principles, Chinese Zodiac insights, and traditional wisdom."
 
-  # Social icons
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/"
-  [[params.socialIcons]]
-    name = "facebook"
-    url = "https://facebook.com/"
-  [[params.socialIcons]]
-    name = "pinterest"
-    url = "https://pinterest.com/"
+  # Footer
+  [params.footer]
+    text = '[Privacy Policy](/legal/privacy-policy/) · [Terms of Service](/legal/terms-of-service/)'
 
   # SEO
   [params.fuseOpts]
@@ -109,6 +121,3 @@ theme = 'PaperMod'
     disable = false
     respectDoNotTrack = true
     useSessionStorage = true
-
-# Site description for SEO
-description = "Your complete guide to Feng Shui, Chinese Zodiac, and traditional Chinese wisdom. Learn how to create harmony and balance in your home and life."

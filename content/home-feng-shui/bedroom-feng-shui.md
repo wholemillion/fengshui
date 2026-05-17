@@ -1,7 +1,7 @@
 ---
 title: "Bedroom Feng Shui: Create a Restful Sanctuary for Better Sleep and Romance"
 description: "Transform your bedroom into a peaceful retreat with Feng Shui principles. Learn the best bed placement, colors, and decor tips for better sleep and enhanced relationships."
-date: 2025-05-15
+date: 2025-03-20
 draft: false
 categories: ["Home Feng Shui"]
 tags: ["bedroom feng shui", "bed placement", "sleep feng shui", "romance feng shui"]

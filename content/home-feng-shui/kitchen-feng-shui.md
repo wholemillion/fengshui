@@ -1,7 +1,7 @@
 ---
 title: "Kitchen Feng Shui: Nourish Your Health and Prosperity"
 description: "Learn how to apply Feng Shui principles to your kitchen for better health, wealth, and family harmony. Discover stove placement, color tips, and organization secrets."
-date: 2025-05-15
+date: 2025-04-01
 draft: false
 categories: ["Home Feng Shui"]
 tags: ["kitchen feng shui", "stove placement", "kitchen colors", "feng shui kitchen"]
@@ -309,4 +309,4 @@ Remember, the best kitchen is one that feels welcoming and inspires you to prepa
 **Related Articles:**
 - [Bedroom Feng Shui Guide](/home-feng-shui/bedroom-feng-shui/)
 - [Living Room Feng Shui Guide](/home-feng-shui/living-room-feng-shui/)
-- [Feng Shui for Wealth](/home-feng-shui/feng-shui-wealth/)
+- [Feng Shui Colors for Prosperity](/home-feng-shui/feng-shui-colors/)

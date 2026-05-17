@@ -1,7 +1,7 @@
 ---
 title: "The Five Elements Theory: A Complete Guide to Wood, Fire, Earth, Metal, and Water"
 description: "Learn about the Five Elements (Wu Xing) in Feng Shui: Wood, Fire, Earth, Metal, and Water. Discover their meanings, relationships, and how to balance them in your home."
-date: 2025-05-15
+date: 2025-02-01
 draft: false
 categories: ["Feng Shui Basics"]
 tags: ["five elements", "wu xing", "feng shui elements", "elemental balance"]

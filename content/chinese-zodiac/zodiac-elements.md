@@ -1,7 +1,7 @@
 ---
 title: "Chinese Zodiac Elements: How Wood, Fire, Earth, Metal, and Water Shape Your Destiny"
 description: "Learn about the five Chinese Zodiac elements and how they influence your personality, relationships, and life path. Discover your element based on birth year."
-date: 2025-05-15
+date: 2025-01-15
 draft: false
 categories: ["Chinese Zodiac"]
 tags: ["zodiac elements", "five elements", "chinese elements", "wood fire earth metal water"]

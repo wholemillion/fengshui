@@ -1,7 +1,7 @@
 ---
 title: "Yin and Yang: Understanding the Balance of Opposites in Feng Shui"
 description: "Learn about Yin and Yang, the fundamental concept of duality and balance in Feng Shui. Discover how to create harmony by balancing these opposing forces in your home."
-date: 2025-05-15
+date: 2025-01-20
 draft: false
 categories: ["Feng Shui Basics"]
 tags: ["yin yang", "balance", "duality", "feng shui principles"]

@@ -1,7 +1,7 @@
 ---
 title: "Living Room Feng Shui: Create a Welcoming Space for Harmony and Connection"
 description: "Learn how to apply Feng Shui principles to your living room. Discover the best furniture arrangement, colors, and decor tips for a harmonious, welcoming space."
-date: 2025-05-15
+date: 2025-03-10
 draft: false
 categories: ["Home Feng Shui"]
 tags: ["living room feng shui", "furniture arrangement", "living room layout", "feng shui decor"]

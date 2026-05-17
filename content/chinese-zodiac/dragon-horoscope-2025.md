@@ -1,7 +1,7 @@
 ---
 title: "Dragon Horoscope 2025: Navigate the Year of the Snake"
 description: "Detailed 2025 horoscope for Dragon zodiac sign. Discover predictions for career, love, wealth, and health in the Year of the Snake."
-date: 2025-05-15
+date: 2025-02-20
 draft: false
 categories: ["Chinese Zodiac"]
 tags: ["dragon horoscope", "2025 dragon", "dragon zodiac", "chinese zodiac dragon"]

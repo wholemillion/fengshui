@@ -1,7 +1,7 @@
 ---
 title: "The Bagua Map: Your Complete Guide to Feng Shui Energy Mapping"
 description: "Learn how to use the Bagua map in Feng Shui to analyze and enhance different areas of your home. Discover the nine zones and their meanings for wealth, relationships, career, and more."
-date: 2025-05-15
+date: 2025-03-01
 draft: false
 categories: ["Feng Shui Basics"]
 tags: ["bagua map", "feng shui map", "bagua areas", "energy mapping"]

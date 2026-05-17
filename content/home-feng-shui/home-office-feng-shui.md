@@ -1,7 +1,7 @@
 ---
 title: "Home Office Feng Shui: Boost Productivity and Career Success"
 description: "Learn how to create a Feng Shui home office that enhances focus, productivity, and career success. Discover desk placement, colors, and organization tips."
-date: 2025-05-15
+date: 2025-04-10
 draft: false
 categories: ["Home Feng Shui"]
 tags: ["home office feng shui", "desk placement", "career feng shui", "office layout"]

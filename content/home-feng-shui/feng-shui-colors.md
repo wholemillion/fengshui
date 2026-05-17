@@ -1,7 +1,7 @@
 ---
 title: "Feng Shui Colors: The Complete Guide to Choosing Colors for Every Room"
 description: "Discover how to use Feng Shui colors to enhance energy in your home. Learn the best colors for each room based on the Five Elements and Bagua areas."
-date: 2025-05-15
+date: 2025-04-20
 draft: false
 categories: ["Home Feng Shui"]
 tags: ["feng shui colors", "color meaning", "room colors", "five elements colors"]

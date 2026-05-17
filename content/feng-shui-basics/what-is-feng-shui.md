@@ -1,7 +1,7 @@
 ---
 title: "What is Feng Shui? A Complete Beginner's Guide"
 description: "Discover what Feng Shui is, its 3,000-year history, core principles, and how you can apply this ancient Chinese practice to create harmony in your modern life."
-date: 2025-05-15
+date: 2025-01-10
 draft: false
 categories: ["Feng Shui Basics"]
 tags: ["feng shui", "beginners guide", "chinese wisdom", "energy flow"]
